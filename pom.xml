@@ -27,6 +27,7 @@
             <version>${tomcat.version}</version>
         </dependency>
 
+        <!-- Rest Spec -->
         <dependency>
             <groupId>javax.ws.rs</groupId>
             <artifactId>javax.ws.rs-api</artifactId>
